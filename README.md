@@ -58,8 +58,7 @@ The database consists of 6 key entities:
 
 ### 📊 Entity-Relationship (ER) Diagram
 
-![ER Diagram](<img width="1388" height="858" alt="Screenshot 2025-12-07 001616" src="https://github.com/user-attachments/assets/e8824296-a341-48c5-ac91-79f533e7c74e" />
-)
+![ER Diagram](ER diagram.png)
 
 *(Note: The diagram visualizes the One-to-Many relationships between Users and Orders, and the Many-to-Many relationship between Watchlists and Instruments.)*
 
