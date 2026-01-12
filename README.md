@@ -58,7 +58,7 @@ The database consists of 6 key entities:
 
 ### 📊 Entity-Relationship (ER) Diagram
 
-![ER Diagram]([ER diagram.png](https://github.com/gajanan-nawle/Capstone-Project3-Zerodha-Product-Dissection-Schema/blob/main/ER%20diagram.png?raw=true))
+![ER Diagram](https://github.com/gajanan-nawle/Capstone-Project3-Zerodha-Product-Dissection-Schema/blob/main/ER%20diagram.png?raw=true)
 
 *(Note: The diagram visualizes the One-to-Many relationships between Users and Orders, and the Many-to-Many relationship between Watchlists and Instruments.)*
 
